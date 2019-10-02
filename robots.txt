@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jeebahoof.hanxuejian.com/sitemap.xml
